@@ -1,0 +1,20 @@
+.ipynb_checkpoints
+.venv
+Action Detection Refined.ipynb
+Action Detection Tutorial.ipynb
+
+
+action.h5
+main.py
+
+
+
+
+
+Pipfile
+
+
+Pipfile.lock 
+train.py
+
+
